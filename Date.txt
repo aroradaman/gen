@@ -1,0 +1,6 @@
+moday
+tuesday
+wednesday
+thursday
+friday
+
